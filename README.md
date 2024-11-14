@@ -3,7 +3,8 @@
 > From where you're kneeling it must seem like an **18-carat** run of bad luck.<br>
 > Truth is... the game was rigged from the start.
 
-Hi there 👋<br>
+Hi there 👋
+
 I'm **18-carat**, a developer from Texas<!-- Reznikoff --> who likes to automate things and make people's jobs easier.
 I currently work for **Southeastern Oklahoma State University** and contract out to **Murray State College**. 
 My specialisations are *automation* and *accessibility*.
