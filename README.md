@@ -5,14 +5,19 @@
 
 Hi there 👋<br>
 I'm **18-carat**, a developer from Texas<!-- Reznikoff --> who likes to automate things and make people's jobs easier.
+I currently work for **Southeastern Oklahoma State University** and contract out to **Murray State College**. 
+My specialisations are *automation* and *accessibility*.
 
-I have experience in:
+I have worked with the following languages:
 - Rust
 - TypeScript
 - JavaScript
 - Haskell
 - Swift
 - C
+- Python
+- MARIE assembly
+- VRISKA assem8ly, my own invention ::::)
 
 <!--
 **18-carat/18-carat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
