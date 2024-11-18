@@ -7,7 +7,7 @@ Hi there 👋
 
 I'm **18-carat**, a developer from Texas<!-- Reznikoff --> who likes to automate things and make people's jobs easier.
 I currently work for **Southeastern Oklahoma State University** and contract out to **Murray State College**. 
-My specialisations are *automation* and *accessibility*.
+My specialties are *automation*, *low-level programming*, and *accessibility*.
 
 I have worked with the following languages:
 - Rust
