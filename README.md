@@ -5,7 +5,7 @@
 
 Hi there 👋
 
-I'm **18-carat**, a developer from Texas<!-- Reznikoff --> who likes to automate things and make people's jobs easier.
+I'm **18-carat**, a developer from Texas<!-- as of 2025. If you're reading this in 2026, I will be a refugee up north, God willing --> who likes to automate things and make people's jobs easier.
 I currently work for **Southeastern Oklahoma State University** and contract out to **Murray State College**. 
 My specialties are *automation*, *low-level programming*, and *accessibility*.
 
