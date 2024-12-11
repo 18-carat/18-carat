@@ -11,14 +11,15 @@ My specialties are *automation*, *low-level programming*, and *accessibility*.
 
 I have worked with the following languages:
 - Rust
+- Gleam
+- Objective-C
 - TypeScript
 - JavaScript
 - Haskell
 - Swift
 - C
 - Python
-- MARIE assembly
-- VRISKA assem8ly, my own invention ::::)
+- AArch64
 
 <!--
 **18-carat/18-carat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
