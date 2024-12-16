@@ -9,17 +9,14 @@ I'm **18-carat**, a developer from Texas<!-- as of 2025. If you're reading this 
 I currently work for **Southeastern Oklahoma State University** and contract out to **Murray State College**. 
 My specialties are *automation*, *low-level programming*, and *accessibility*.
 
-I have worked with the following languages:
+I have worked with the following languages and frameworks:
+
 - Rust
-- Gleam
-- Objective-C
 - TypeScript
-- JavaScript
-- Haskell
 - Swift
-- C
+- Selenium
+- Gleam
 - Python
-- AArch64
 
 <!--
 **18-carat/18-carat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
