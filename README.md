@@ -5,30 +5,17 @@
 
 Hi there 👋
 
-I'm **18-carat**, a developer from Texas<!-- as of 2025. If you're reading this in 2026, I will be a refugee up north, God willing --> who likes to automate things and make people's jobs easier.
+I'm **18-carat**, a developer from Texas<!-- (as of 2025; if you're reading this in 2026, I will be a refugee up north, God willing) --> who likes to automate things and make people's jobs easier.
 I currently work for **Southeastern Oklahoma State University** and contract out to **Murray State College**. 
-My specialties are *automation*, *low-level programming*, and *accessibility*.
+My specialties are *automation*, *QA testing*, *accessibility*, and *low-level programming*.
 
 I have worked with the following languages and frameworks:
 
-- Rust
-- TypeScript
+- Rust <3
 - Swift
 - Selenium
 - Gleam
-- Python
+- TypeScript
+- Python / Ren'Py
 
-<!--
-**18-carat/18-carat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![exploits_of_a_mom_2x](https://github.com/user-attachments/assets/39f8fb84-79bc-41a7-9193-493c4f8d94f4)
