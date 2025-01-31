@@ -18,4 +18,4 @@ I have worked with the following languages and frameworks:
 - TypeScript
 - Python / Ren'Py
 
-![exploits_of_a_mom_2x](https://github.com/user-attachments/assets/39f8fb84-79bc-41a7-9193-493c4f8d94f4)
+![XKCD 327](https://github.com/user-attachments/assets/39f8fb84-79bc-41a7-9193-493c4f8d94f4)
