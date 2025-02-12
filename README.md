@@ -6,16 +6,16 @@
 Hi there 👋
 
 I'm **18-carat**, a developer from Texas<!-- (save me) --> who likes to automate things and make people's jobs easier.
-I currently work for **Southeastern Oklahoma State University** and contract out to **Murray State College**. 
-My specialties are *automation*, *QA testing*, *accessibility*, and *low-level programming*.
+I currently work as Accessibility Team Lead for **Southeastern Oklahoma State University** and also maintain **CCAU**,
+a userscript suite to automate some aspects of course copies in the Canvas LMS.
 
-I have worked with the following languages and frameworks:
+I have worked with the following languages:
 
-- Rust <3
-- Swift
-- Selenium
+- Bash
+- Batch (when I was 14 lol)
 - Gleam
-- TypeScript
+- Haskell
 - Python / Ren'Py
-
-![Comic featuring a stick figure on the phone. The voice over the phone says "Hi, This is your son's school. We're having some computer trouble.". The stick figure replies with "Oh, dear – did he break something?". The voice over the phone says "In a way – Did you really name your son Robert'); DROP TABLE Students;-- ?" to which the stick figure quips "Oh, yes. Little Bobby Tables, we call him." The voice over the phone says "Well, we've lost this year's student records. I hope you're happy." to which the stick figure replies with "And I hope you've learned to sanitize your database inputs."](https://github.com/user-attachments/assets/39f8fb84-79bc-41a7-9193-493c4f8d94f4)
+- Rust
+- Swift
+- TypeScript
