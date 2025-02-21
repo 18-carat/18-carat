@@ -13,9 +13,11 @@ I have worked with the following languages:
 
 - Bash
 - Batch (when I was 14 lol)
+- C
 - Gleam
 - Haskell
-- Python / Ren'Py
+- Python
+- Ren'Py
 - Rust
 - Swift
 - TypeScript
