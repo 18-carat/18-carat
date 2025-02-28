@@ -12,13 +12,12 @@ assembler/disassembler/VM for the MARIE assembly language, an SRT file format pa
 
 I have worked with the following languages:
 
-- Bash
+- Bash/POSIX
 - Batch (when I was 14 lol)
 - C
 - Gleam
 - Haskell
-- Python
-- Ren'Py
+- Python/Ren'Py
 - Rust
 - Swift
 - TypeScript
