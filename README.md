@@ -6,15 +6,13 @@
 Hi there 👋
 
 I'm **18-carat**, a developer from Texas<!-- (save me) --> who likes to automate things and make people's jobs easier.
-I currently work as Accessibility Team Lead for **Southeastern Oklahoma State University** and also maintain **CCAU**,
-a userscript suite to automate some aspects of course copies in the Canvas LMS. Some of my previous works include an
-assembler/disassembler/VM for the MARIE assembly language, an SRT file format parser, and a critical path calculator.
+I currently work as Accessibility Team Lead for **Southeastern Oklahoma State University**. I wrote and maintain **CCAU**,
+a userscript suite to automate some aspects of course copies in the Canvas LMS.
 
 I have worked with the following languages:
 
 - Bash/POSIX
-- Batch (when I was 14 lol)
-- C
+- C/Objective-C
 - Gleam
 - Haskell
 - Python/Ren'Py
