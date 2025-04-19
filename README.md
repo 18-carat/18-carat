@@ -11,4 +11,4 @@ attend as a student. The software I'm most proud of is **CCAU** (pronounced as "
 automate some of the more tedious/repetitive aspects of course copies in the Canvas learning management system.
 
 I also created **srt2** and **uxmlwriter**, which help over 3,500 people make their content more accessible when using the 
-SubRip (SRT) subtitle format to caption videos.
+SubRip (SRT) subtitle format to caption videos or when writing data to XML files.
